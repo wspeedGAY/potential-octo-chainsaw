@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Geometry Dash LITE",
+  "version": "1.0",
+  "description": "Open Geometry Dash Lite in a draggable corner window on click.",
+  "permissions": ["scripting", "activeTab"],
+  "background": {
+    "service_worker": "yigge.js"
+  },
+  "action": {
+    "default_title": "Open Geometry Dash Lite"
+  }
+}
