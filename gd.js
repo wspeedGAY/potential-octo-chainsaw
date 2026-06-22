@@ -272,8 +272,10 @@ extraGamesMenu.append(
     div.style.cssText = selectLabel.style.cssText;
     return div;
   })(),
+  makeButton("Dashmetry", "https://Dashmetry.io", "Dashmetry"),
   makeButton("Sans", "https://jcw87.github.io/c2-sans-fight/", "Sans"),
   makeButton("Sans?", "https://caijiqaq.github.io/LAST-BREATH/", "Last Breath"),
+  makeButton("FNAF 1", "https://fnafgames.io", "FNAF 1"),
   makeButton("Undyne", "https://doodle-pile.gitlab.io/unfair-undyne/v0.99/", "Undyne"),
   makeButton("Thirty Dollar Website", "https://thirtydollar.website/", "Thirty Dollar Website"),
   makeButton("Undertale DEMO", "https://turbowarp.org/791527350/embed", "Undertale"),
