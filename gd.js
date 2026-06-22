@@ -278,6 +278,7 @@ extraGamesMenu.append(
   makeButton("FNAF 1", "https://fnafgames.io", "FNAF 1"),
   makeButton("Undyne", "https://doodle-pile.gitlab.io/unfair-undyne/v0.99/", "Undyne"),
   makeButton("Thirty Dollar Website", "https://thirtydollar.website/", "Thirty Dollar Website"),
+    makeButton("Youtube", "https://youtu.be", "Youtube"),
   makeButton("Undertale DEMO", "https://turbowarp.org/791527350/embed", "Undertale"),
   makeButton("Friday Night Funkin' (Embed)", "https://itch.io/embed/792778", "Friday Night Funkin'"),
   (() => {
